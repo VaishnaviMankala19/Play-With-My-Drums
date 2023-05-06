@@ -2,7 +2,9 @@ body{
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    background-color:#E80F88;
+    background-image: url("https://t3.ftcdn.net/jpg/04/89/14/44/360_F_489144444_XRjuLNGfvTZBMHzIQeMzdIk9ixA6sr8G.jpg");
+    border-image-repeat: no-repeat;
+    background-size: cover;
 }
 
 .hm{
@@ -121,4 +123,7 @@ h1{
        .container button{
         margin: 20px;
        } 
+       h1{
+        font-size:65px;
+       }
 }
